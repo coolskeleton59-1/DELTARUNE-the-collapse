@@ -1,0 +1,1 @@
+target_room = rm_dark_world_entrance

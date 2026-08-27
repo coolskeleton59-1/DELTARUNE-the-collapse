@@ -1,0 +1,1 @@
+if (global.truce_phase >=2){visible = false}

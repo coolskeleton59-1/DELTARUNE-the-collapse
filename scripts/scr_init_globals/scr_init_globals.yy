@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_init_globals",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_init_globals",
+  "parent":{
+    "name":"Deltarune_The_Collapse",
+    "path":"Deltarune_The_Collapse.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

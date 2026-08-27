@@ -1,0 +1,22 @@
+{
+  "$GMPath":"",
+  "%Name":"kris_pth_susie",
+  "closed":false,
+  "kind":0,
+  "name":"kris_pth_susie",
+  "parent":{
+    "name":"Deltarune_The_Collapse",
+    "path":"Deltarune_The_Collapse.yyp",
+  },
+  "points":[
+    {"speed":100.0,"x":1280.0,"y":32.0,},
+    {"speed":100.0,"x":1280.0,"y":320.0,},
+    {"speed":100.0,"x":1664.0,"y":320.0,},
+    {"speed":100.0,"x":1664.0,"y":320.0,},
+    {"speed":100.0,"x":1696.0,"y":320.0,},
+    {"speed":100.0,"x":1707.2981,"y":234.5805,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
