@@ -1,0 +1,2 @@
+
+target_room = rm_shelter_cutscene

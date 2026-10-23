@@ -1,0 +1,1 @@
+global.shop_return_room = room;
